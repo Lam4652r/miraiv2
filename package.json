@@ -1,7 +1,7 @@
 {
     "name": "MiraiBypassSang-Zukie",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+    "description": "A simple Facebook Messenger Bot made by me(ThSang) and my brother Nguyên.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
